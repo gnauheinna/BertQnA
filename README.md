@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# NLP Powered Q&A
+
+This project is a NLP Powered Question Answering webapp extracts insights from a passage to answer questions asked using the state of the art BERT modek from TensorFlow.JS.
+
+# Tech Stack
+
+- React
+- TensorFlow
+- BERT (NLP model)
+- JavaScript
+- html
+- css
+
+# Instructions
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

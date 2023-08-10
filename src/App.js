@@ -21,7 +21,7 @@ const App = () => {
     console.log("Model loaded.");
   };
 
-  // Questions Handleer
+  // Questinpons Handleer
   const answerQuestion = async (e) => {
     if (e.which === 13 && model !== null) {
       console.log("Question submitted.");

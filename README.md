@@ -1,6 +1,6 @@
 # NLP Powered Q&A
 
-This project is a NLP Powered Question Answering webapp extracts insights from a passage to answer questions asked using the state of the art BERT modek from TensorFlow.JS.
+This project is a NLP Powered Question Answering webapp that extracts insights from a passage to answer questions using the state of the art BERT model from TensorFlow.JS.
 
 # Tech Stack
 
